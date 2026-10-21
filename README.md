@@ -7,9 +7,9 @@ Modern food ecosystems require intelligent systems that can seamlessly analyze f
 ---
 
 ## 🔗 Project Links
-* **Live Demo:** [Insert Demo Link Here]
-* **Project Drive (Development Documents):** [Insert Google Drive Link Here]
-* **GitHub Repository:** [Insert GitHub Link Here]
+* **Live Demo:** https://food-verse-code.vercel.app
+* **GitHub Repository:** https://github.com/AditiDabral/FoodVerse-Code
+)
 
 ---
 
