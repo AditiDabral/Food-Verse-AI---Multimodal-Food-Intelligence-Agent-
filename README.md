@@ -16,8 +16,8 @@ Modern food ecosystems require intelligent systems that can seamlessly analyze f
 ## 🗂️ Project Documentation
 All detailed project documentation is available in PDF format within the `docs/` folder of this repository. These documents feature a unified Neo-Brutalist design language and contain in-depth technical architecture, workflows, and visual milestones.
 
-1. [Project Description & Problem Statement](docs/1_project_description.pdf)
-2. [User Scenarios (AI Chef, Daily Calorie Tracking, etc.)](docs/2_scenarios.pdf)
+1. [Project Description & Problem Statement](docs/Project_Description.pdf)
+2. [User Scenarios (AI Chef, Daily Calorie Tracking, etc.)](docs/Scenarios.pdf)
 3. [Prerequisites & Technology Stack](docs/3_prerequisites.pdf)
 4. [Technical Architecture & Data Flow](docs/4_technical_architecture.pdf)
 5. [Project Workflow Diagrams](docs/5_project_workflow.pdf)
