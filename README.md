@@ -16,15 +16,14 @@ Modern food ecosystems require intelligent systems that can seamlessly analyze f
 ## 🗂️ Project Documentation
 All detailed project documentation is available in PDF format within the `docs/` folder of this repository. These documents feature a unified Neo-Brutalist design language and contain in-depth technical architecture, workflows, and visual milestones.
 
-1. [Project Description & Problem Statement](docs/Project_Description.pdf)
-2. [User Scenarios (AI Chef, Daily Calorie Tracking, etc.)](docs/Scenarios.pdf)
-3. [Prerequisites & Technology Stack](docs/3_prerequisites.pdf)
-4. [Technical Architecture & Data Flow](docs/4_technical_architecture.pdf)
-5. [Project Workflow Diagrams](docs/5_project_workflow.pdf)
-6. [Milestones & Development Activities](docs/6_milestones_updated.pdf)
-7. [Output Screenshots & UI Walkthrough](docs/7_output_screenshots.pdf)
-8. [Conclusion & Future Scope](docs/8_conclusion.pdf)
-
+1. [Project Description & Problem Statement](Project%20Description.pdf)
+2. [User Scenarios (AI Chef, Daily Calorie Tracking, etc.)](2.%20Requirement%20Analysis/Scenarios.pdf)
+3. [Prerequisites & Technology Stack](2.%20Requirement%20Analysis/Prerequisites%20-%20FoodVerse%20AI.pdf)
+4. [Technical Architecture & Data Flow](3.%20Project%20Design%20Phase/Technical%20Architecture.pdf)
+5. [Project Workflow Diagrams](4.%20Project%20Planning%20Phase/Project%20Workflow.pdf)
+6. [Milestones & Development Activities](5.%20Project%20Development%20Phase/MILESTONES%20&%20Activity.pdf)
+7. [Project Testing](6.%20Project%20Testing/Project%20Testing.pdf)
+8. [Output Screenshots & UI Walkthrough](8.%20Project%20Demonstration/Output%20Screenshots.pdf)
 ---
 
 ## ⚡ Core Modules & Features
