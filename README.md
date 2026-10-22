@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/ebec588b-36a9-4886-8744-bac9c744a6bc
 ---
 
 ## 🗂️ Project Documentation
-All detailed project documentation is available in PDF format within the `docs/` folder of this repository. These documents feature a unified Neo-Brutalist design language and contain in-depth technical architecture, workflows, and visual milestones.
+All detailed project documentation is available in PDF format within the `docs/` folder of this repository.
 
 1. [Project Description & Problem Statement](1.%20Brainstorming%20&%20Ideation/Project%20Description.pdf)
 2. [User Scenarios (AI Chef, Daily Calorie Tracking, etc.)](2.%20Requirement%20Analysis/Scenarios.pdf)
